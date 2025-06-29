@@ -1,0 +1,6 @@
+gymnasium~=0.29.1
+numpy~=1.26.4
+stable-baselines3[extra]~=2.3.0
+matplotlib~=3.8.3
+optuna~=3.5.0
+tensorboard~=2.16.2
